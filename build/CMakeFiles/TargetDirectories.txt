@@ -1,0 +1,5 @@
+C:/Users/m3nrfr/Desktop/Qt Project/build/CMakeFiles/HardwareSimulationDebugger.dir
+C:/Users/m3nrfr/Desktop/Qt Project/build/CMakeFiles/edit_cache.dir
+C:/Users/m3nrfr/Desktop/Qt Project/build/CMakeFiles/rebuild_cache.dir
+C:/Users/m3nrfr/Desktop/Qt Project/build/CMakeFiles/HardwareSimulationDebugger_autogen_timestamp_deps.dir
+C:/Users/m3nrfr/Desktop/Qt Project/build/CMakeFiles/HardwareSimulationDebugger_autogen.dir
